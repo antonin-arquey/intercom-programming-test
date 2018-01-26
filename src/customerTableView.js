@@ -1,5 +1,10 @@
 /**
-* Append a customer id and name to the customeInvitedr table on the HTML page
+* File : customerTableView.js
+* Description : contains the functions to show and modify the html page where result are displayed
+* */
+
+/**
+* Append a customer id and name to the customeInvited table on the HTML page
 * @param customer - the customer object to append to the table
 * */
 function appendToCustomersTable(customer) {

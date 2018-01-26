@@ -1,3 +1,8 @@
+/**
+* File : customersInvitation.js
+* Description : contains the functions to compute the list of customers to invite
+* */
+
 import has from 'lodash.has';
 import isNaN from 'lodash.isnan';
 

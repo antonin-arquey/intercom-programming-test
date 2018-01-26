@@ -1,3 +1,8 @@
+/**
+* File : main.js
+* Description : bootstrap the application and display the result on the HTML page
+* */
+
 import { getArrayInvitedCustomers } from './customersInvitation';
 import { appendToCustomersTable, printErrorMessage } from './customerTableView';
 import customersData from './json/customers.json';
